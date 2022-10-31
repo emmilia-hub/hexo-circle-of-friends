@@ -60,7 +60,7 @@ GITHUB_FRIENDS_LINKS: {
     enable: true, # true 开启github issue兼容
     type: "normal",  # volantis/stellar用户请在这里填写volantis
     owner: "emmilia-hub",  # 填写你的github用户名
-    repo: "firends",  # 填写你的github仓库名
+    repo: "issue-json-generator",  # 填写你的github仓库名
     state: "open",  # 填写抓取的issue状态(open/closed)
 }
 
