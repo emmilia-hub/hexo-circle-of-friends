@@ -17,7 +17,7 @@
 LINK:
     - {link: "http://kitel.top/test/", theme: "Stellar"}  # 友链页地址1，修改为你的友链页地址
 #    - {link: "https://noionion.top/link/", theme: "butterfly"} # 友链页地址2
-    - {link: "http://kitel.top/about/", theme: "Stellar"} # 友链页地址3
+#    - {link: "http://kitel.top/about/", theme: "Stellar"} # 友链页地址3
 
 
 # 配置项友链
