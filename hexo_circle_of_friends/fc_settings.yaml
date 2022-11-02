@@ -59,8 +59,8 @@ GITEE_FRIENDS_LINKS: {
 GITHUB_FRIENDS_LINKS: {
     enable: true, # true 开启github issue兼容
     type: "volantis",  # volantis/stellar用户请在这里填写volantis
-    owner: "emmilia-hub",  # 填写你的github用户名
-    repo: "friends",  # 填写你的github仓库名
+    owner: "autjuly",  # 填写你的github用户名
+    repo: "autjuly.github.io",  # 填写你的github仓库名
     state: "open",  # 填写抓取的issue状态(open/closed)
 }
 
